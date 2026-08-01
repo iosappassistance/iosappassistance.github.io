@@ -40,4 +40,14 @@
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://appassistance.services/pixelate/privacy/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://appassistance.services/pixelate/terms/</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>yearly</changefreq>
+  </url>
 </urlset>
