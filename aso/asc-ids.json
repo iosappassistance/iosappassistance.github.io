@@ -1,0 +1,19 @@
+{
+  "appId": "6774959850",
+  "versionId": "c58e5869-06b3-4952-ac08-aec508822e07",
+  "localizations": {
+    "ru": {
+      "versionLocalizationId": "28469349-4984-420c-81b9-e734a99ae1f5",
+      "screenshotSets": {
+        "APP_IPHONE_65": "102693a1-9356-4d5e-a2d7-0de8b037f415"
+      }
+    },
+    "en-US": {
+      "versionLocalizationId": "8518c491-497c-45aa-83fb-34505da1722e",
+      "screenshotSets": {
+        "APP_IPHONE_65": "1f0fcce3-6243-4299-9cd5-2a31c545176a",
+        "APP_IPAD_PRO_3GEN_129": "51a61616-1e84-46a8-ab87-dd309ca6640d"
+      }
+    }
+  }
+}
