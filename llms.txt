@@ -11,6 +11,7 @@
 - [ScanPro: PDF Scanner & Editor](https://appassistance.services/scanpro/): Document scanner with AI enhancement, batch scanning, PDF/JPG/PNG export, offline mode. App Store: https://apps.apple.com/app/id6748518542
 - [Invoice: Estimates & Receipts](https://appassistance.services/invoice/): Create invoices, estimates and receipts, track payments and clients, analytics and PDF export. App Store: https://apps.apple.com/app/id6753165868
 - [PDF: Reader, Scanner, Editor](https://appassistance.services/pdf/): All-in-one PDF toolkit — reader, editor, e-signature, scanner with OCR, converter, form filling. App Store: https://apps.apple.com/app/id6742465810
+- [Book: EPUB, PDF & FB2 Reader](https://appassistance.services/book/): Ebook reader for EPUB, MOBI, AZW3, FB2, PDF, TXT, DOCX, RTF and CBZ comics, with text to speech, translation, highlights and notes, and a reading tracker with daily goals, streaks, widgets and Siri. App Store: https://apps.apple.com/app/id6811408221
 
 ## Contact
 
