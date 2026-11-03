@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iosappassistance.github.io/</loc>
+    <loc>https://appassistance.services/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/drivege/</loc>
+    <loc>https://appassistance.services/drivege/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/pulse/</loc>
+    <loc>https://appassistance.services/pulse/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/calora/</loc>
+    <loc>https://appassistance.services/calora/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/clipra/</loc>
+    <loc>https://appassistance.services/scanpro/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/scanpro/</loc>
+    <loc>https://appassistance.services/invoice/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/invoice/</loc>
+    <loc>https://appassistance.services/pdf/</loc>
     <lastmod>2026-07-15</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/pdf/</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://iosappassistance.github.io/pixelate/privacy/</loc>
+    <loc>https://appassistance.services/pixelate/privacy/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/pixelate/terms/</loc>
+    <loc>https://appassistance.services/pixelate/terms/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/cleaner/</loc>
+    <loc>https://appassistance.services/cleaner/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/cleaner/privacy/</loc>
+    <loc>https://appassistance.services/cleaner/privacy/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/cleaner/terms/</loc>
+    <loc>https://appassistance.services/cleaner/terms/</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/book/</loc>
+    <loc>https://appassistance.services/book/</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/book/privacy/</loc>
+    <loc>https://appassistance.services/book/privacy/</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>yearly</changefreq>
   </url>
   <url>
-    <loc>https://iosappassistance.github.io/book/terms/</loc>
+    <loc>https://appassistance.services/book/terms/</loc>
     <lastmod>2026-09-24</lastmod>
     <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://appassistance.services/pixelate/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
